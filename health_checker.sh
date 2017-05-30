@@ -1,7 +1,4 @@
-#!/bin/sh
-#Script was created by Alexander Filimonov(Alexander.Filimonov.GDC@ts.fujitsu.com)
-#for quick checking health of server. This script is using by GDC Unix team to get
-#server status for MIM request.
+#!/bin/bash
 
 #set -x
 
